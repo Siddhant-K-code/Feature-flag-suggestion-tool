@@ -5,6 +5,9 @@
 
 An intelligent tool that leverages AI to analyze code changes and suggest strategic feature flag implementations. Built for the DevCycle Feature Flag Challenge, this tool helps developers make smarter decisions about feature flagging.
 
+<img width="1418" alt="Demo preview image" src="https://github.com/user-attachments/assets/39716bea-c214-419c-b88d-997aeb92309d">
+
+
 ## Features
 
 - 🤖 AI-powered analysis of pull requests
